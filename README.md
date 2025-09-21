@@ -2,6 +2,14 @@
 
 A powerful web page builder that converts YAML structures into beautiful HTML pages. Create stunning websites using a simple YAML syntax, making it easy to define layouts, components, and styling in a clean, readable format.
 
+## Screenshots
+
+### Main Application Interface
+![WebForge Main Interface](home_page.png)
+
+### Example Output
+![Example Generated Page](example.png)
+
 ## Features
 
 - **Simple YAML Syntax**: Define your page structure using easy-to-read YAML
